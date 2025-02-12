@@ -1,0 +1,45 @@
+# Dependencies
+node_modules/
+bower_components/
+
+# Compiled output
+dist/
+tmp/
+build/
+out/
+
+# IDEs and editors
+.idea/
+.vscode/
+*.swp
+*.swo
+.project
+.classpath
+*.launch
+.settings/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Angular specific
+.angular/
+coverage/
+
+# Misc
+*.map
+*.d.ts
